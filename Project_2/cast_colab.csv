@@ -1,0 +1,420 @@
+,actor,director,count
+0,Ralph Macchio,John G. Avildsen,4
+1,Marlon Wayans,Michael Tiddes,4
+2,Scott Adkins,Jesse V. Johnson,4
+3,Martin Kove,John G. Avildsen,4
+4,Hugo Weaving,Lana Wachowski,4
+5,Hugo Weaving,Lilly Wachowski,4
+6,Pat Morita,John G. Avildsen,4
+7,Carrie-Anne Moss,Lana Wachowski,3
+8,Adam Sandler,Steve Brill,3
+9,April Lawrence,Tim Johnson,3
+10,Brian Stepanek,Tim Johnson,3
+11,Sylvester Stallone,Sylvester Stallone,3
+12,Jennifer Lopez,Tim Johnson,3
+13,Sharon Stone,Paul Verhoeven,3
+14,Michael Madsen,Quentin Tarantino,3
+15,Matt Jones,Tim Johnson,3
+16,Samuel L. Jackson,Quentin Tarantino,3
+17,Judi Dench,Martin Campbell,3
+18,Keanu Reeves,Lilly Wachowski,3
+19,Laurence Fishburne,Lilly Wachowski,3
+20,Uma Thurman,Quentin Tarantino,3
+21,Burt Young,Sylvester Stallone,3
+22,Carl Weathers,Sylvester Stallone,3
+23,Randee Heller,John G. Avildsen,3
+24,Doug Jones,Guillermo del Toro,3
+25,William Zabka,John G. Avildsen,3
+26,Tony Burton,Sylvester Stallone,3
+27,Will Ferrell,Adam McKay,3
+28,Talia Shire,Sylvester Stallone,3
+29,Rihanna,Tim Johnson,3
+30,Jim Parsons,Tim Johnson,3
+31,Steve Martin,Tim Johnson,3
+32,Mindy Sterling,Jay Roach,3
+33,Clint Eastwood,Clint Eastwood,3
+34,Jacob Elordi,Vince Marcello,3
+35,Joel Courtney,Vince Marcello,3
+36,Joey King,Vince Marcello,3
+37,Molly Ringwald,Vince Marcello,3
+38,Keanu Reeves,Lana Wachowski,3
+39,Seth Green,Jay Roach,3
+40,Laurence Fishburne,Lana Wachowski,3
+41,Robert Wagner,Jay Roach,3
+42,Carrie-Anne Moss,Lilly Wachowski,3
+43,Rob Schneider,Dennis Dugan,3
+44,Harrison Ford,Steven Spielberg,3
+45,Adam Sandler,Frank Coraci,3
+46,Adam Sandler,Dennis Dugan,3
+47,Mike Myers,Jay Roach,3
+48,Michael York,Jay Roach,3
+49,Vladimir Kulich,Jesse V. Johnson,2
+50,Janel Parrish,Michael Fimognari,2
+51,John Corbett,Michael Fimognari,2
+52,Harry Gold,Brian De Palma,2
+53,Doug Cox,Brian De Palma,2
+54,Lana Condor,Michael Fimognari,2
+55,Noah Centineo,Michael Fimognari,2
+56,Trezzo Mahoro,Michael Fimognari,2
+57,Ross Butler,Michael Fimognari,2
+58,Darby Camp,Brandon Camp,2
+59,Gabriel Bateman,Brandon Camp,2
+60,Betty Buckley,Brian De Palma,2
+61,Amy Irving,Brian De Palma,2
+62,Macon Blair,Jeremy Saulnier,2
+63,Angus Sampson,Brandon Camp,2
+64,Steve Buscemi,Steve Brill,2
+65,Will Rothhaar,Brandon Camp,2
+66,Brady Permenter,Brandon Camp,2
+67,Kiele Sanchez,Brandon Camp,2
+68,Jim Gleason,Brandon Camp,2
+69,Jerod Haynes,Brandon Camp,2
+70,Gralen Bryant Banks,Brandon Camp,2
+71,Sarayu Blue,Michael Fimognari,2
+72,Stefan Gierasch,Brian De Palma,2
+73,John Travolta,Brian De Palma,2
+74,Khadijha Red Thunder,Jenny Gage,2
+75,Affion Crockett,Michael Tiddes,2
+76,Cedric the Entertainer,Michael Tiddes,2
+77,Shane Paul McGhie,Jenny Gage,2
+78,Selma Blair,Jenny Gage,2
+79,Samuel Larsen,Jenny Gage,2
+80,Pia Mia,Jenny Gage,2
+81,Peter Gallagher,Jenny Gage,2
+82,Josephine Langford,Jenny Gage,2
+83,Tom Hardy,Brian Helgeland,2
+84,Jennifer Beals,Jenny Gage,2
+85,Inanna Sarkis,Jenny Gage,2
+86,Hero Fiennes Tiffin,Jenny Gage,2
+87,Dylan Arnold,Jenny Gage,2
+88,Dave Sheridan,Michael Tiddes,2
+89,Essence Atkins,Michael Tiddes,2
+90,Micah Hauptman,Jen McGowan,2
+91,Allen Covert,Steve Brill,2
+92,Taron Egerton,Brian Helgeland,2
+93,Michael Talbott,Brian De Palma,2
+94,Sydney Lassick,Brian De Palma,2
+95,Nancy Allen,Brian De Palma,2
+96,Noelle North,Brian De Palma,2
+97,P.J. Soles,Brian De Palma,2
+98,Piper Laurie,Brian De Palma,2
+99,Priscilla Pointer,Brian De Palma,2
+100,Sissy Spacek,Brian De Palma,2
+101,Anna Cathcart,Michael Fimognari,2
+102,William Katt,Brian De Palma,2
+103,Tara Fitzgerald,Brian Helgeland,2
+104,Chazz Palminteri,Brian Helgeland,2
+105,Christopher Eccleston,Brian Helgeland,2
+106,Colin Morgan,Brian Helgeland,2
+107,David Thewlis,Brian Helgeland,2
+108,Duffy,Brian Helgeland,2
+109,Emily Browning,Brian Helgeland,2
+110,Paul Bettany,Brian Helgeland,2
+111,Emilija Baranac,Michael Fimognari,2
+112,Drew Barrymore,McG,2
+113,Dave Goelz,Jim Henson,2
+114,Giancarlo Giannini,Martin Campbell,2
+115,DMX,Andrzej Bartkowiak,2
+116,Juliette Lewis,Todd Phillips,2
+117,Tom Arnold,Andrzej Bartkowiak,2
+118,Johnny Depp,Tim Burton,2
+119,Helena Bonham Carter,Tim Burton,2
+120,Daniel Craig,Martin Campbell,2
+121,Eva Green,Martin Campbell,2
+122,Jude Law,Anthony Minghella,2
+123,Adam Sandler,Steven Brill,2
+124,Jeffrey Wright,Martin Campbell,2
+125,Philip Seymour Hoffman,Anthony Minghella,2
+126,Mads Mikkelsen,Martin Campbell,2
+127,Pierce Brosnan,Martin Campbell,2
+128,Simon Kunz,Martin Campbell,2
+129,Ben Kingsley,Martin Scorsese,2
+130,Emily Mortimer,Martin Scorsese,2
+131,Anthony Anderson,Andrzej Bartkowiak,2
+132,Travis Van Winkle,Marcus Nispel,2
+133,Ryan Hansen,Marcus Nispel,2
+134,Julianna Guill,Marcus Nispel,2
+135,David Schwimmer,Tom McGrath,2
+136,Chris Rock,Tom McGrath,2
+137,Cedric the Entertainer,Tom McGrath,2
+138,Ben Stiller,Tom McGrath,2
+139,Andy Richter,Tom McGrath,2
+140,Aaron Yoo,Marcus Nispel,2
+141,Amanda Righetti,Marcus Nispel,2
+142,Helena Bonham Carter,Tom Hooper,2
+143,Arlen Escarpeta,Marcus Nispel,2
+144,Ben Feldman,Marcus Nispel,2
+145,Danielle Panabaker,Marcus Nispel,2
+146,Derek Mears,Marcus Nispel,2
+147,Eddie Redmayne,Tom Hooper,2
+148,Jared Padalecki,Marcus Nispel,2
+149,Jonathan Sadowski,Marcus Nispel,2
+150,Cole Hauser,Antoine Fuqua,2
+151,Joe Pesci,Martin Scorsese,2
+152,Leonardo DiCaprio,Martin Scorsese,2
+153,Chris Wylde,McG,2
+154,Shelley Winters,Stanley Kubrick,2
+155,Lucy Liu,McG,2
+156,Luke Wilson,McG,2
+157,Matt LeBlanc,McG,2
+158,Scott Caan,Steven Soderbergh,2
+159,Matt Damon,Steven Soderbergh,2
+160,George Clooney,Steven Soderbergh,2
+161,Don Cheadle,Steven Soderbergh,2
+162,Casey Affleck,Steven Soderbergh,2
+163,Brad Pitt,Steven Soderbergh,2
+164,Bernie Mac,Steven Soderbergh,2
+165,Andy Garcia,Steven Soderbergh,2
+166,Bruce Willis,Steven C. Miller,2
+167,Nick Swardson,Steven Brill,2
+168,Frank Oz,Jim Henson,2
+169,Crispin Glover,McG,2
+170,Carl McDowell,McG,2
+171,Robert De Niro,Martin Scorsese,2
+172,Cameron Diaz,McG,2
+173,Stephen Graham,Martin Scorsese,2
+174,Jessica Chastain,Tate Taylor,2
+175,Sam Neill,Taika Waititi,2
+176,Rachel House,Taika Waititi,2
+177,Talia Shire,John G. Avildsen,2
+178,Sylvester Stallone,John G. Avildsen,2
+179,Ron Thomas,John G. Avildsen,2
+180,Rob Garrison,John G. Avildsen,2
+181,Burgess Meredith,Sylvester Stallone,2
+182,Elisabeth Shue,John G. Avildsen,2
+183,Burt Young,John G. Avildsen,2
+184,Burgess Meredith,John G. Avildsen,2
+185,Sienna Miller,Matthew Vaughn,2
+186,Andrew Bachelor,McG,2
+187,Will Smith,Barry Sonnenfeld,2
+188,Sue Lyon,Stanley Kubrick,2
+189,John C. Reilly,Jeff Baena,2
+190,Peter Sellers,Stanley Kubrick,2
+191,Cate Blanchett,Peter Jackson,2
+192,Biddy Hodson,Guillermo del Toro,2
+193,Mark Wahlberg,Peter Berg,2
+194,Embeth Davidtz,Gregory Hoblit,2
+195,Tom Hanks,Ron Howard,2
+196,Pierfrancesco Favino,Ron Howard,2
+197,Paul Bettany,Ron Howard,2
+198,Bernard Hill,Peter Jackson,2
+199,Billy Boyd,Peter Jackson,2
+200,Dominic Monaghan,Peter Jackson,2
+201,Pierce Brosnan,Roger Donaldson,2
+202,Elijah Wood,Peter Jackson,2
+203,Ian McKellen,Peter Jackson,2
+204,John Rhys-Davies,Peter Jackson,2
+205,Liv Tyler,Peter Jackson,2
+206,Orlando Bloom,Peter Jackson,2
+207,Sean Astin,Peter Jackson,2
+208,Viggo Mortensen,Peter Jackson,2
+209,Adam Sandler,Peter Segal,2
+210,Brian Steele,Guillermo del Toro,2
+211,Corey Johnson,Guillermo del Toro,2
+212,Jeffrey Tambor,Guillermo del Toro,2
+213,John Hurt,Guillermo del Toro,2
+214,Philip Seymour Hoffman,Paul Thomas Anderson,2
+215,Arnold Schwarzenegger,Paul Verhoeven,2
+216,Marshall Bell,Paul Verhoeven,2
+217,Mel Johnson Jr.,Paul Verhoeven,2
+218,Michael Champion,Paul Verhoeven,2
+219,Michael Ironside,Paul Verhoeven,2
+220,Rachel Ticotin,Paul Verhoeven,2
+221,Ronny Cox,Paul Verhoeven,2
+222,Rosemary Dunsmore,Paul Verhoeven,2
+223,Roy Brocksmith,Paul Verhoeven,2
+224,Michael B. Jordan,Ryan Coogler,2
+225,Selma Blair,Guillermo del Toro,2
+226,Rupert Evans,Guillermo del Toro,2
+227,Ron Perlman,Guillermo del Toro,2
+228,Ladislav Beran,Guillermo del Toro,2
+229,Kevin Trainor,Guillermo del Toro,2
+230,Karel Roden,Guillermo del Toro,2
+231,Allen Covert,Peter Segal,2
+232,Anne Archer,Phillip Noyce,2
+233,William Fichtner,Paul Haggis,2
+234,Geena Davis,Rob Minkoff,2
+235,Chris Rock,Dennis Dugan,2
+236,Ryan Gosling,Derek Cianfrance,2
+237,John Mahoney,Rob Reiner,2
+238,Chad Michael Collins,Don Michael Paul,2
+239,Nathan Lane,Rob Minkoff,2
+240,Michael J. Fox,Rob Minkoff,2
+241,Jonathan Lipnicki,Rob Minkoff,2
+242,Hugh Laurie,Rob Minkoff,2
+243,Nicholas Hoult,Drake Doremus,2
+244,Harrison Ford,Phillip Noyce,2
+245,Sacha Baron Cohen,Eric Darnell,2
+246,Jada Pinkett Smith,Eric Darnell,2
+247,David Schwimmer,Eric Darnell,2
+248,Chris Rock,Eric Darnell,2
+249,Cedric the Entertainer,Eric Darnell,2
+250,Ben Stiller,Eric Darnell,2
+251,Andy Richter,Eric Darnell,2
+252,Hilary Swank,Richard LaGravenese,2
+253,Henry Winkler,Frank Coraci,2
+254,Alexa PenaVega,Robert Rodriguez,2
+255,Danny Trejo,Robert Rodriguez,2
+256,Walton Goggins,Quentin Tarantino,2
+257,James Earl Jones,Phillip Noyce,2
+258,Polly Walker,Phillip Noyce,2
+259,Thora Birch,Phillip Noyce,2
+260,Chris Pine,David Mackenzie,2
+261,Christoph Waltz,Quentin Tarantino,2
+262,Dana Gourrier,Quentin Tarantino,2
+263,Daryl Hannah,Quentin Tarantino,2
+264,David Carradine,Quentin Tarantino,2
+265,Julia Roberts,Garry Marshall,2
+266,Gordon Liu,Quentin Tarantino,2
+267,Robert Pattinson,David Michôd,2
+268,Scoot McNairy,David Michôd,2
+269,Hector Elizondo,Garry Marshall,2
+270,Taylor Dooley,Robert Rodriguez,2
+271,Will Smith,Gabriele Muccino,2
+272,Tim Roth,Quentin Tarantino,2
+273,Jessica Alba,Robert Rodriguez,2
+274,Kevin J. O'Connor,Paul Thomas Anderson,2
+275,Thandie Newton,Paul Haggis,2
+276,Paul Weitz,Jeff Baena,2
+277,Peter Facinelli,Catherine Hardwicke,2
+278,Ashley Greene,Catherine Hardwicke,2
+279,Billy Burke,Catherine Hardwicke,2
+280,Cam Gigandet,Catherine Hardwicke,2
+281,Elizabeth Reaser,Catherine Hardwicke,2
+282,Jackson Rathbone,Catherine Hardwicke,2
+283,Kellan Lutz,Catherine Hardwicke,2
+284,Kristen Stewart,Catherine Hardwicke,2
+285,Nikki Reed,Catherine Hardwicke,2
+286,Robert Pattinson,Catherine Hardwicke,2
+287,Kevin Hart,Neil LaBute,2
+288,Taylor Lautner,Catherine Hardwicke,2
+289,Diane Kruger,Jaume Collet-Serra,2
+290,Bruno Ganz,Jaume Collet-Serra,2
+291,Aidan Quinn,Jaume Collet-Serra,2
+292,Chris Rock,Neil LaBute,2
+293,Columbus Short,Neil LaBute,2
+294,Danny Glover,Neil LaBute,2
+295,James Marsden,Neil LaBute,2
+296,Anna Kendrick,Catherine Hardwicke,2
+297,Frank Langella,Jaume Collet-Serra,2
+298,January Jones,Jaume Collet-Serra,2
+299,Liam Neeson,Jaume Collet-Serra,2
+300,Paul Reiser,Jeff Baena,2
+301,Molly Shannon,Jeff Baena,2
+302,Lois Maxwell,Stanley Kubrick,2
+303,James Mason,Stanley Kubrick,2
+304,Gary Cockrell,Stanley Kubrick,2
+305,Diana Decker,Stanley Kubrick,2
+306,Cec Linder,Stanley Kubrick,2
+307,Sacha Baron Cohen,Tom McGrath,2
+308,Scott Speedman,Bryan Bertino,2
+309,Aubrey Plaza,Jeff Baena,2
+310,Will Ferrell,Jay Roach,2
+311,Verne Troyer,Jay Roach,2
+312,Elizabeth Hurley,Jay Roach,2
+313,Stipe Erceg,Jaume Collet-Serra,2
+314,Sebastian Koch,Jaume Collet-Serra,2
+315,Rainer Bock,Jaume Collet-Serra,2
+316,Olivier Schneider,Jaume Collet-Serra,2
+317,Keith David,Neil LaBute,2
+318,Loretta Devine,Neil LaBute,2
+319,Terrence Howard,Paul Haggis,2
+320,Don Cheadle,Paul Haggis,2
+321,Bill Barretta,James Bobin,2
+322,Oscar Isaac,J.C. Chandor,2
+323,Geraldine Chaplin,J.A. Bayona,2
+324,Nicolas Cage,Oliver Stone,2
+325,Kristen Stewart,Olivier Assayas,2
+326,Lars Eidinger,Olivier Assayas,2
+327,Marcia Gay Harden,Clint Eastwood,2
+328,Brendan Fraser,Paul Haggis,2
+329,Jennifer Esposito,Paul Haggis,2
+330,Luke Wilson,Neil LaBute,2
+331,Larenz Tate,Paul Haggis,2
+332,Bruce Campbell,Sam Raimi,2
+333,Ludacris,Paul Haggis,2
+334,Matt Dillon,Paul Haggis,2
+335,Michael Peña,Paul Haggis,2
+336,Nona Gaye,Paul Haggis,2
+337,Ryan Phillippe,Paul Haggis,2
+338,Sandra Bullock,Paul Haggis,2
+339,Dave Goelz,James Bobin,2
+340,David Rudman,James Bobin,2
+341,Eric Jacobson,James Bobin,2
+342,Fozzie Bear,James Bobin,2
+343,Martin Lawrence,Neil LaBute,2
+344,Peter Dinklage,Neil LaBute,2
+345,Regina Hall,Neil LaBute,2
+346,Regine Nehy,Neil LaBute,2
+347,Ron Glass,Neil LaBute,2
+348,Tracy Morgan,Neil LaBute,2
+349,Zoe Saldana,Neil LaBute,2
+350,Patrick Wilson,James Wan,2
+351,Sharlto Copley,Neill Blomkamp,2
+352,Ben Miles,James McTeigue,2
+353,Steve Whitmire,James Bobin,2
+354,Peter Linz,James Bobin,2
+355,Muppets,James Bobin,2
+356,Miss Piggy,James Bobin,2
+357,Matt Vogel,James Bobin,2
+358,Kermit the Frog,James Bobin,2
+359,Gonzo,James Bobin,2
+360,Jada Pinkett Smith,Tom McGrath,2
+361,Jerry Stovin,Stanley Kubrick,2
+362,Courteney Cox,Wes Craven,2
+363,Gemma Arterton,Louis Leterrier,2
+364,Brenton Thwaites,Will Eubank,2
+365,Laurence Fishburne,Will Eubank,2
+366,Lin Shaye,Will Eubank,2
+367,Olivia Cooke,Will Eubank,2
+368,Robert Longstreet,Will Eubank,2
+369,Beau Knapp,William Eubank,2
+370,Jada Pinkett Smith,Lana Wachowski,2
+371,Harry Lennix,Lana Wachowski,2
+372,Harold Perrineau,Lana Wachowski,2
+373,Alexa Davalos,Louis Leterrier,2
+374,Jason Flemyng,Louis Leterrier,2
+375,Gary Grubbs,Vic Armstrong,2
+376,Liam Neeson,Louis Leterrier,2
+377,Luke Evans,Louis Leterrier,2
+378,Mads Mikkelsen,Louis Leterrier,2
+379,Ralph Fiennes,Louis Leterrier,2
+380,Sam Worthington,Louis Leterrier,2
+381,Gloria Foster,Lana Wachowski,2
+382,Quinton Aaron,Vic Armstrong,2
+383,Nicolas Cage,Vic Armstrong,2
+384,Nicky Whelan,Vic Armstrong,2
+385,Lea Thompson,Vic Armstrong,2
+386,Brenton Thwaites,William Eubank,2
+387,Laurence Fishburne,William Eubank,2
+388,Lin Shaye,William Eubank,2
+389,Olivia Cooke,William Eubank,2
+390,Lambert Wilson,Lilly Wachowski,2
+391,Will Forte,Kris Pearn,2
+392,David Arquette,Wes Craven,2
+393,Jamie Kennedy,Wes Craven,2
+394,Monica Bellucci,Lilly Wachowski,2
+395,Nona Gaye,Lilly Wachowski,2
+396,Liev Schreiber,Wes Craven,2
+397,Neve Campbell,Wes Craven,2
+398,Nona Gaye,Lana Wachowski,2
+399,Jada Pinkett Smith,Lilly Wachowski,2
+400,Monica Bellucci,Lana Wachowski,2
+401,Taylor Zakhar Perez,Vince Marcello,2
+402,Meganne Young,Vince Marcello,2
+403,Harry Lennix,Lilly Wachowski,2
+404,Maisie Richardson-Sellers,Vince Marcello,2
+405,Harold Perrineau,Lilly Wachowski,2
+406,Gloria Foster,Lilly Wachowski,2
+407,Beau Knapp,Will Eubank,2
+408,John C. Reilly,Adam McKay,2
+409,Lambert Wilson,Lana Wachowski,2
+410,Robert Longstreet,William Eubank,2
+411,Jordin Sparks,Vic Armstrong,2
+412,Colin Farrell,Yorgos Lanthimos,2
+413,Jason Mewes,Kevin Smith,2
+414,Helen Mirren,Lasse Hallström,2
+415,Tine Stapelfeldt,Louis Leterrier,2
+416,Cassi Thomson,Vic Armstrong,2
+417,Chad Michael Murray,Vic Armstrong,2
+418,Terry Crews,Kris Pearn,2
